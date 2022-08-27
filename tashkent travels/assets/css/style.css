@@ -1,0 +1,785 @@
+* {
+    text-decoration: none;
+    list-style: none;
+    margin: auto;
+    padding: 0;
+}
+
+header .row nav ul li h1 {
+    color: #101b54;
+}
+
+header .header_top {
+    background-image: url(../paul-trienekens-cYW4ROUmzzQ-unsplash.png);
+    height: 825px;
+}
+
+header .header_top .row .box .tash h3 {
+    color: #626262;
+}
+
+header .header_top .row .box .tash h3 span {
+    color: #101b54;
+}
+
+header .header_top .row .box_top {
+    background-color: white;
+    width: 378px;
+    height: 388px;
+    margin-top: 110px
+}
+
+header .header_top .row .box_top .mail .coob p {
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    color: #101c55;
+    font-weight: 600;
+}
+
+header .header_top .row .box_top .mail .name input {
+    width: 290px;
+    margin-left: 20px;
+    margin-top: 25px;
+
+    border-left: none;
+    border-top: none;
+    border-right: none;
+}
+
+header .header_top .row .box_top .mail .email input {
+    width: 290px;
+    margin-left: 20px;
+    margin-top: 25px;
+
+    border-left: none;
+    border-top: none;
+    border-right: none;
+}
+
+header .header_top .row .box_top .mail .cob input {
+    width: 290px;
+    margin-left: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    height: 70px;
+}
+
+header .header_top .row .box_top .mail .inpt {
+    display: flex;
+    justify-content: center;
+
+}
+
+header .header_top .row .box_top .mail .inpt button {
+    width: 230px;
+    border-radius: 30px;
+    background-color: #101c55;
+    height: 55px;
+}
+
+header .header_top .row .box_top .mail .inpt button p {
+    color: white;
+    padding: 18px;
+
+}
+
+main .row .box .hhh h2 {
+    color: #101c55;
+    font-weight: 900;
+}
+
+main .row .box .tur .item .lorem p {
+    width: 50px;
+    color: #101c55;
+    font-weight: 900;
+
+}
+
+main .row .box .tur .bob {
+    margin: auto;
+}
+
+main .row .box_top .doc h2 {
+    color: #101c55;
+    font-weight: bold;
+}
+
+main .row .box_top .lorem {
+    color: #101c55;
+}
+
+section .row .item .box_1 .bir {
+    width: 361px;
+    height: 358px;
+    text-align: center;
+
+    background: url(../imeg/Rectangle\ tojmahal.png);
+    background-size: cover;
+}
+
+section .row .item .box_1 .bir h2 {
+    color: #101c55;
+
+}
+
+section .row .item .box_1 .bir p {
+    color: #101c55;
+    margin: 27px 71px 33px 85px;
+}
+
+section .row .item .box_1 .bir .card {
+    width: 361px;
+    height: 358px;
+}
+
+section .row .item .box_1 .bir .card {
+    display: none;
+}
+
+section .row .item .box_1 .bir:hover .card {
+    display: block;
+    background: #9ec4af5b;
+}
+
+section .row .item .box_1 .ikki {
+    width: 361px;
+    height: 358px;
+    text-align: center;
+    background: url(../imeg/Rectangle\ 3\ copy2.png);
+    background-size: cover;
+}
+
+section .row .item .box_1 .ikki h2 {
+    color: #101c55;
+
+}
+
+section .row .item .box_1 .ikki p {
+    color: #101c55;
+    margin: 27px 71px 33px 85px;
+}
+
+section .row .item .box_1 .ikki .card {
+    width: 361px;
+    height: 358px;
+}
+
+section .row .item .box_1 .ikki .card {
+    display: none;
+}
+
+section .row .item .box_1 .ikki:hover .card {
+    display: block;
+    background: #9ec4af5b;
+    padding-top: 0%;
+}
+
+section .row .item .box_1 .uch {
+    width: 361px;
+    height: 358px;
+    text-align: center;
+    background: url(../imeg/Rectangle\ 3\ copy\ 3.png);
+    background-size: cover;
+}
+
+section .row .item .box_1 .uch h2 {
+    color: #101c55;
+
+}
+
+section .row .item .box_1 .uch p {
+    color: #101c55;
+    margin: 27px 71px 33px 85px;
+}
+
+section .row .item .box_1 .uch .card {
+    width: 361px;
+    height: 358px;
+}
+
+section .row .item .box_1 .uch .card {
+    display: none;
+}
+
+section .row .item .box_1 .uch:hover .card {
+    display: block;
+    background: #9ec4af5b;
+    padding-top: 0%;
+
+}
+
+section .row .item .box_2 .bir {
+    width: 361px;
+    height: 358px;
+    text-align: center;
+    background: url(../imeg/2.1-1.png);
+    background-size: cover;
+}
+
+section .row .item .box_2 .bir h2 {
+    color: #101c55;
+}
+
+section .row .item .box_2 .bir p {
+    color: #101c55;
+    margin: 27px 71px 33px 85px;
+}
+
+section .row .item .box_2 .bir .card {
+    width: 361px;
+    height: 358px;
+}
+
+section .row .item .box_2 .bir .card {
+    display: none;
+}
+
+section .row .item .box_2 .bir:hover .card {
+    display: block;
+    background: #366fe95b;
+    padding-top: 0%;
+}
+
+section .row .item .box_2 .ikki {
+    width: 361px;
+    height: 358px;
+    text-align: center;
+    background: url(../imeg/2.1.png);
+    background-size: cover;
+}
+
+section .row .item .box_2 .ikki h2 {
+    color: #101c55;
+}
+
+section .row .item .box_2 .ikki p {
+    color: #101c55;
+    margin: 27px 71px 33px 85px;
+
+}
+
+section .row .item .box_2 .ikki .card {
+    width: 361px;
+    height: 358px;
+}
+
+section .row .item .box_2 .ikki .card {
+    display: none;
+}
+
+section .row .item .box_2 .ikki:hover .card {
+    display: block;
+    background: #9ec4af5b;
+    padding-top: 0%;
+}
+
+section .row .item .box_2 .uch {
+    width: 361px;
+    height: 358px;
+    text-align: center;
+    background: url(../imeg/2.3.png);
+    background-size: cover;
+}
+
+section .row .item .box_2 .uch h2 {
+    color: #101c55;
+}
+
+section .row .item .box_2 .uch p {
+    color: #101c55;
+    margin: 27px 71px 33px 85px;
+}
+
+section .row .item .box_2 .uch .card {
+    width: 361px;
+    height: 358px;
+}
+
+section .row .item .box_2 .uch .card {
+    display: none;
+}
+
+section .row .item .box_2 .uch:hover .card {
+    display: block;
+    background: #9ec4af5b;
+    padding-top: 0%;
+}
+
+section .row .item .box_3 .bir {
+    width: 361px;
+    height: 358px;
+    text-align: center;
+    background: url(../imeg/3.1.png);
+    background-size: cover;
+}
+
+section .row .item .box_3 .bir h2 {
+    color: #101c55;
+
+}
+
+section .row .item .box_3 .bir p {
+    color: #101c55;
+    margin: 27px 71px 33px 85px;
+
+}
+
+section .row .item .box_3 .bir .card {
+    width: 361px;
+    height: 358px;
+}
+
+section .row .item .box_3 .bir .card {
+    display: none;
+}
+
+section .row .item .box_3 .bir:hover .card {
+    display: block;
+    background: #9ec4af5b;
+    padding-top: 0%;
+}
+
+section .row .item .box_3 .ikki {
+    width: 361px;
+    height: 358px;
+    text-align: center;
+    background: url(../imeg/3.2.png);
+    background-size: cover;
+}
+
+section .row .item .box_3 .ikki h2 {
+    color: #101c55;
+
+}
+
+section .row .item .box_3 .ikki p {
+    color: #101c55;
+    margin: 27px 71px 33px 85px;
+
+}
+
+section .row .item .box_3 .ikki .card {
+    width: 361px;
+    height: 358px;
+}
+
+section .row .item .box_3 .ikki .card {
+    display: none;
+}
+
+section .row .item .box_3 .ikki:hover .card {
+    display: block;
+    background: #9ec4af5b;
+}
+
+section .row .item .box_3 .uch {
+    width: 361px;
+    height: 358px;
+    text-align: center;
+    background: url(../imeg/3.3.png);
+    background-size: cover;
+}
+
+section .row .item .box_3 .uch h2 {
+    color: #101c55;
+
+}
+
+section .row .item .box_3 .uch p {
+    color: #101c55;
+    margin: 27px 71px 33px 85px;
+}
+
+section .row .item .box_3 .uch .card {
+    width: 361px;
+    height: 358px;
+}
+
+section .row .item .box_3 .uch .card {
+    display: none;
+}
+
+section .row .item .box_3 .uch:hover .card {
+    display: block;
+    background: #9ec4af5b;
+    transition: 2s;
+}
+
+section .box_top .log h2 {
+    color: #101c55;
+    font-weight: 600;
+    margin: 20px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+section .box_top .lorem p {
+    color: black;
+    font-weight: 400;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+section .box_top .lorem p span {
+    margin-right: 40px;
+}
+
+section .box_footr .item .lor .tur {
+    color: #101c55;
+    margin-bottom: 40px;
+    margin-top: 350px;
+}
+
+section .box_footr .item .lor .log {
+    color: #101c55;
+    word-spacing: -5px;
+    margin-bottom: 150px;
+}
+
+section .boch_uch .kup .bir {
+    width: 360px;
+    height: 445px;
+    background: url(../imeg/ft1.png);
+}
+
+section .boch_uch .kup .bir .pul {
+    width: 260px;
+    height: 90px;
+    background-color: white;
+
+}
+
+section .boch_uch .kup .bir .pul {
+    margin-top: 400px;
+}
+
+section .boch_uch .kup .bir .pul h4 {
+    color: #000000;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+section .boch_uch .kup .bir .pul h3 {
+    text-align: center;
+    font-weight: 900;
+    color: #101c55;
+
+}
+
+section .boch_uch .kup .ikki {
+    width: 360px;
+    height: 445px;
+    background: url(../imeg/images/tashkent_travels_03.jpg);
+    background-size: cover;
+}
+
+section .boch_uch .kup .ikki .pul {
+    width: 260px;
+    height: 90px;
+    background-color: white;
+}
+
+section .boch_uch .kup .ikki .pul {
+    margin-top: 400px;
+}
+
+section .boch_uch .kup .ikki .pul h4 {
+    color: #000000;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+section .boch_uch .kup .ikki .pul h3 {
+    text-align: center;
+    font-weight: 900;
+    color: #101c55;
+}
+
+section .boch_uch .kup .uch {
+    width: 360px;
+    height: 445px;
+    background: url(../imeg/toa-heftiba-JZO-dPkCe3E-unsplash.png);
+}
+
+section .boch_uch .kup .uch .pul {
+    width: 260px;
+    height: 90px;
+    background-color: white;
+
+}
+
+section .boch_uch .kup .uch .pul {
+    margin-top: 400px;
+}
+
+section .boch_uch .kup .uch .pul h4 {
+    color: #000000;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+section .boch_uch .kup .uch .pul h3 {
+    text-align: center;
+    font-weight: 900;
+    color: #101c55;
+}
+
+section .box_group .logo h1 {
+    color: #101c55;
+    margin-top: 150px;
+    margin-bottom: 85px;
+    text-align: center;
+}
+
+section .box_group .item .group .ikki {
+    display: flex;
+    justify-content: space-between;
+}
+section .box_group .item .group .ikki .group_1{
+    width: 320px;
+}
+section .box_group .item .group .ikki .group_1 img {
+    margin-top: 90px;
+    margin-left: 130px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+section .box_group .item .group .ikki .group_1 p {
+    margin-left: 8px;
+    color: #626262;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+section .box_group .item .group .ikki .group_1 .star {
+    text-align: center;
+}
+
+section .box_group .item .group .ikki .group_1 .star img {
+    color: yellow;
+    width: 10px;
+    height: 11px;
+    margin: auto;
+}
+
+section .box_group .item .group .ikki .group_1 h5 {
+    text-align: center;
+    margin-top: 10px;
+}
+section .box_group .item .bir .group_1{
+    width: 320px;
+}
+section .box_group .item .bir .group_1 img {
+    margin-top: 90px;
+    margin-left: 130px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+section .box_group .item .bir .group_1 p {
+    margin-left: 8px;
+    color: #626262;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+section .box_group .item .bir .group_1 .star {
+    text-align: center;
+}
+
+section .box_group .item .bir .group_1 .star img {
+    color: yellow;
+    width: 10px;
+    height: 11px;
+    margin: auto;
+}
+
+section .box_group .item .bir .group_1 h5 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+footer .item .input {
+    text-align: center;
+    margin-top: 160px;
+    margin-bottom: 20px;
+}
+
+footer .item .input button {
+    width: 230px;
+    border-radius: 30px;
+    background-color: #101c55;
+}
+
+footer .item .logo .bob {
+    display: flex;
+}
+footer .item .logo{
+    display: flex;
+}
+footer .item .logo .fas {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    border: 1px solid rgb(241, 240, 240);
+    border-radius: 50%;
+    background: #101c55;
+}
+
+footer .item .logo .goog {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    border: 1px solid rgb(241, 240, 240);
+    border-radius: 50%;
+    background: #101c55;
+}
+
+footer .item .logo .twit {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    border: 1px solid rgb(241, 240, 240);
+    border-radius: 50%;
+    background: #101c55;
+}
+
+footer .item .logo .lorem {
+    color: #626262;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+@media (max-width: 767px) {
+    main .tur {
+        flex-direction: column;
+    }
+
+    section .box_1 {
+        flex-wrap: wrap;
+
+    }
+
+    section .box_1 .bir {
+        margin-bottom: 15px;
+    }
+
+    section .box_1 .ikki {
+        margin-bottom: 15px;
+    }
+
+    section .box_2 {
+        flex-wrap: wrap;
+
+    }
+
+    section .box_2 .bir {
+        margin-bottom: 15px;
+    }
+
+    section .box_2 .ikki {
+        margin-bottom: 15px;
+    }
+
+
+    section .box_3 {
+        flex-wrap: wrap;
+
+    }
+
+    section .box_3 .bir {
+        margin-bottom: 15px;
+    }
+
+    section .box_3 .ikki {
+        margin-bottom: 15px;
+    }
+
+    section .boch_uch .kup {
+        flex-direction: column;
+    }
+
+    section .boch_uch .kup .bir {
+        margin-bottom: 50px;
+
+    }
+
+    section .boch_uch .kup .ikki {
+        margin-bottom: 50px;
+
+    }
+
+    section .boch_uch .kup .uch {
+        margin-bottom: 50px;
+
+    }
+section .box_group .group .ikki{
+    flex-wrap: wrap;
+
+}
+footer .item .logo{
+   flex-direction: column;
+}
+footer .item .logo .bob{
+    margin-bottom: 10px;
+}
+}
+
+@media(min-width: 768px) {
+    section .box_1 .bir {
+        margin-right: 15px;
+        background-size: cover;
+    }
+
+    section .box_1 .ikki {
+        margin-right: 15px;
+    }
+
+
+    section .box_2 .bir {
+        margin-right: 15px;
+        background-size: cover;
+    }
+
+    section .box_2 .ikki {
+        margin-right: 15px;
+    }
+
+    section .box_3 .bir {
+        margin-right: 15px;
+        background-size: cover;
+    }
+
+    section .box_3 .ikki {
+        margin-right: 15px;
+    }
+
+    section .boch_uch .kup .bir {
+        margin-right: 15px;
+
+    }
+
+    section .boch_uch .kup .ikki {
+        margin-right: 15px;
+
+    }
+
+    section .boch_uch .kup .uch {
+        margin-right: 15px;
+
+    }
+    
+
+}
+
+@media (min-width: 992px) {
+    main .tur .bob {
+        display: flex;
+        justify-content: center;
+        margin: auto;
+
+    }
+
+}
